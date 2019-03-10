@@ -6,7 +6,7 @@ Classroom resources
 
 ### IceAddis Intranet
 
-* https://iceaddis/files/
+* https://iceaddis/files/#/HOME/DevOps
 
 ### How to connect to Linux with SSH
 
