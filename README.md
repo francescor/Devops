@@ -1,4 +1,4 @@
-# Devops
+# Devops - Addis Ababa 11th of March 2019
 Classroom resources
 
 
